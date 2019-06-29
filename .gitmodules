@@ -1,0 +1,6 @@
+[submodule "edgeledger-web"]
+	path = edgeledger-web
+	url = https://github.com/kevinasyraf/edgeledger-website
+[submodule "newsgrid-web"]
+	path = newsgrid-web
+	url = https://github.com/kevinasyraf/newsgrid-website
